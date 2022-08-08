@@ -88,7 +88,7 @@ const sidebar = {
       children: [
         '/components/charts/amap',
         '/components/charts/baidu',
-        '/components/charts/tencent',
+        // '/components/charts/tencent',
         '/components/charts/echarts'
       ]
     },
